@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zenith-Val
-- 👀 I’m interested in Bioinformatics
+- 👀 I’m interested in Computational Biology
 - 🌱 I’m currently learning Python
 - 📫 How to reach me - 
 
